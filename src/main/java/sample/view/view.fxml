@@ -7,8 +7,7 @@
 <?import javafx.scene.control.TextArea?>
 <?import javafx.scene.control.ScrollPane?>
 <?import javafx.scene.layout.StackPane?>
-<BorderPane fx:controller="sample.view.Activity"
-            xmlns:fx="http://javafx.com/fxml">
+<BorderPane xmlns:fx="http://javafx.com/fxml">
     <top>
         <VBox>
             <HBox>
